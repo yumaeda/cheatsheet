@@ -34,3 +34,8 @@
 ```sh
 :sort u
 ```
+
+## Replace tab to new line
+```sh
+:g/\t/s//<Ctr>+V+[Enter]/g
+```
