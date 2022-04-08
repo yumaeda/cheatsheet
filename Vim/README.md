@@ -37,5 +37,5 @@
 
 ## Replace tab to new line
 ```sh
-:g/\t/s//<Ctr>+V+[Enter]/g
+:g/\t/s//<Ctr>+v+[Enter]/g
 ```
